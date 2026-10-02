@@ -1,2 +1,2 @@
-# PiratesInvasionStage-5
-added sprite animation
+# Pirate Invasion
+This project is the initial file of the Pirate Invasion game.
